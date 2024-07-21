@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixApp", "MatrixApp\MatrixApp.csproj", "{0B6CE184-1698-4616-B599-E16CAA1E679C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixLibrary", "MatrixLibrary\MatrixLibrary.csproj", "{1344E396-FCEE-4849-9FC5-369ED2F98898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B6CE184-1698-4616-B599-E16CAA1E679C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6CE184-1698-4616-B599-E16CAA1E679C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6CE184-1698-4616-B599-E16CAA1E679C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6CE184-1698-4616-B599-E16CAA1E679C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1344E396-FCEE-4849-9FC5-369ED2F98898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1344E396-FCEE-4849-9FC5-369ED2F98898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1344E396-FCEE-4849-9FC5-369ED2F98898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1344E396-FCEE-4849-9FC5-369ED2F98898}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

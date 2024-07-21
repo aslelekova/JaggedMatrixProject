@@ -1,0 +1,12 @@
+/Users/anastasialelekova/RiderProjects/HW2.2/MatrixLibrary/bin/Debug/net6.0/MatrixLibrary.deps.json
+/Users/anastasialelekova/RiderProjects/HW2.2/MatrixLibrary/bin/Debug/net6.0/MatrixLibrary.dll
+/Users/anastasialelekova/RiderProjects/HW2.2/MatrixLibrary/bin/Debug/net6.0/MatrixLibrary.pdb
+/Users/anastasialelekova/RiderProjects/HW2.2/MatrixLibrary/obj/Debug/net6.0/MatrixLibrary.csproj.AssemblyReference.cache
+/Users/anastasialelekova/RiderProjects/HW2.2/MatrixLibrary/obj/Debug/net6.0/MatrixLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasialelekova/RiderProjects/HW2.2/MatrixLibrary/obj/Debug/net6.0/MatrixLibrary.AssemblyInfoInputs.cache
+/Users/anastasialelekova/RiderProjects/HW2.2/MatrixLibrary/obj/Debug/net6.0/MatrixLibrary.AssemblyInfo.cs
+/Users/anastasialelekova/RiderProjects/HW2.2/MatrixLibrary/obj/Debug/net6.0/MatrixLibrary.csproj.CoreCompileInputs.cache
+/Users/anastasialelekova/RiderProjects/HW2.2/MatrixLibrary/obj/Debug/net6.0/MatrixLibrary.dll
+/Users/anastasialelekova/RiderProjects/HW2.2/MatrixLibrary/obj/Debug/net6.0/refint/MatrixLibrary.dll
+/Users/anastasialelekova/RiderProjects/HW2.2/MatrixLibrary/obj/Debug/net6.0/MatrixLibrary.pdb
+/Users/anastasialelekova/RiderProjects/HW2.2/MatrixLibrary/obj/Debug/net6.0/ref/MatrixLibrary.dll
